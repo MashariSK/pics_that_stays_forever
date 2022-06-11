@@ -1,0 +1,10 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+*.json
+!spec/*.json
+.DS_Store
+*.png
